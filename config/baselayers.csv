@@ -1,0 +1,10 @@
+﻿"Layer","FullName","Path","Layer-type"
+"NYS_Counties","New York State County Boundaries","C:/myworld/gisdata/ny-county-boundaries-nysgc/counties.shp","shapefile"
+"NYS_dec_lands","New York State DEC Land Boundaries","C:/myworld/gisdata/declands/DEC_Lands.shp","shapefile"
+"NYS_eco_zones","New York State Ecological Zones","C:/myworld/gisdata/nys_ecozones/dfw_ecozone.shp","shapefile"
+"NYS_Area_Hydro","New York State Water Areas (Area Hydrography 24K)","C:/myworld/gisdata/ny-hydro-24k-nysgc/AreaHydrography.shp","shapefile"
+"NYS_Linear_Hydro","New York State Water (Linear Hydrography 24K)","C:/myworld/gisdata/ny-hydro-24k-nysgc/LinearHydrography.shp","shapefile"
+"moreau_lake_sp","Moreau Lake State Park Boundary","C:/myworld/CGIS/BBD/layers/MoreauLakeSP/Moreau_lake_sp_complete.shp","shapefile"
+
+
+
